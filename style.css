@@ -100,3 +100,24 @@ parallax-inner{
 .links:hover{
     background-color: dodgerblue;
 }
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsborow;
+}
+
+.article-hover{
+    color: fuchsia;
+}
+
+#writtings {
+   text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+    
+}
